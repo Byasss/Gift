@@ -1,0 +1,136 @@
+.body{
+     overflow-x: hidden;
+}
+
+.gifts{
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    margin-top: 0px;
+ font-family: "Cal Sans", sans-serif;
+    font-weight: 400;
+    letter-spacing:10px ;
+
+ }
+
+ .audio{
+    display:none;
+}
+
+ #images{
+    position: relative;
+ }
+#img1{
+    position: absolute;
+    top: 2600px;
+    right: 0px;
+   
+    }
+
+#img1:hover{
+    transform: translate(-10px) scale(1.2);
+}
+
+#img2{
+    position: absolute;
+    top: 150px;
+    left :50px;
+}
+
+#img2:hover{
+    transform: translate(10px) scale(1.2);
+}
+#img3{
+    position: absolute;
+    top: 800px;
+    right: 50px;
+    
+}
+#img3:hover{
+    transform: translate(-10px) scale(1.2);
+} 
+#img4{
+    position: absolute;
+    top: 1550px;
+    left: 50px;
+}
+#img4:hover{
+    transform: translate(10px) scale(1.2);
+}   
+.text1{
+    position: absolute;
+    right: 170px;
+    top: 425px;
+   font-family: "Passions Conflict", cursive;
+    font-size: 60px;
+    
+    z-index:  10;
+    color: #250902;}
+
+    
+.text2{
+    position:absolute;
+    left: 225px;
+    top: 1170px;
+     line-height:50px ;
+   font-family: "Passions Conflict", cursive;
+    font-size: 70px;
+    font-style: italic;
+    z-index: 2;
+    color: #52352eea;
+    
+}
+.text3{
+    position: absolute;
+    right: 300px;
+    top: 1900px;
+   font-family: "Passions Conflict", cursive;
+    font-size: 70px; 
+    z-index:  10;
+    color: #250902;
+}
+.text4{
+   position:absolute;
+    left: 350px;
+    top: 2880px;
+   font-family: "Passions Conflict", cursive;
+    font-size: 70px;
+    font-style: italic;
+    line-height:47px ;
+    z-index: 2;
+    color: #250902;
+}
+
+.ending{
+     margin-left: 30px;
+}
+.paper{
+    position: relative;
+}
+.paper1{
+    
+    position: absolute;
+    right: 0px;
+    
+     width: 1000px;
+    }
+   
+.paper2{
+    position: absolute;
+    left: 100px;
+    top: 700px;
+    width: 500px;
+}
+
+.paper3{
+     position: absolute;
+    right: 100px;
+    top:1500px;
+     width: 700px;
+}
+.paper4{
+    position: absolute;
+    left: 200px;
+    top: 2400px;
+    width: 450px;
+}

@@ -1,0 +1,275 @@
+
+*{
+     font-family: "Pixelify Sans", sans-serif;
+}
+body {
+  min-height: 6000px; 
+  background-color: black;
+  font-family: "Pixelify Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-y: hidden;
+}
+
+.audio{
+    display:none;
+}
+
+.lem{
+   position: absolute;
+   left: 180px;
+   top: 400px;
+   
+}
+.text2{
+    position: absolute;
+    color: white;
+    left : 470px;
+    font-size: 23px;
+    top:  420px;
+    width: 700px ;
+    
+
+}
+
+.baan{
+   position: absolute;
+   right: 180px;
+   top: 900px;}
+
+.text1{
+    position: absolute;
+    color: white;
+    left: 180px;
+    font-size: 23px;
+    top: 920px;
+    width: 700px ;
+
+}
+.byas{
+   position: absolute;
+   left: 180px;
+   top: 1400px;
+}
+.text3{
+    position: absolute;
+    color: white;
+    left : 470px;
+    font-size: 23px;
+    top:  1420px;
+    width: 700px ;
+    
+
+}
+
+.pablo{
+   position: absolute;
+   right: 180px;
+   top: 1920px;}
+
+.text4{
+     position: absolute;
+    color: white;
+    left: 180px;
+    font-size: 23px;
+    top: 1900px;
+    width: 700px ;
+
+}
+
+.text5{
+position: absolute;
+color: white;
+left: 500px;
+top: 2400px;
+width: 400px;
+font-size: 50px;
+}
+
+.designer{
+position: absolute;
+color: white;
+left: 540px;
+top: 2500px;
+width: 400px;
+font-size: 25px;
+}
+
+.text6{
+position: absolute;
+color: white;
+left: 465px;
+top: 2700px;
+width: 400px;
+font-size: 50px;
+}
+
+.co-designer{
+position: absolute;
+color: white;
+left: 550px;
+top: 2800px;
+width: 400px;
+font-size: 25px;
+}
+
+.text7{
+position: absolute;
+color: white;
+left: 455px;
+top: 3000px;
+width:600px;
+font-size: 50px;
+}
+
+.music{
+position: absolute;
+color: white;
+left: 520px;
+top: 3100px;
+width: 400px;
+font-size: 25px;
+}
+
+.text8{
+position: absolute;
+color: white;
+left: 480px;
+top: 3300px;
+width:600px;
+font-size: 50px;
+}
+
+.screen{
+position: absolute;
+color: white;
+left: 540px;
+top: 3400px;
+width: 400px;
+font-size: 25px;
+}
+
+.text9{
+position: absolute;
+color: white;
+left: 450px;
+top: 3600px;
+width:600px;
+font-size: 50px;
+}
+
+.co-screen{
+    position: absolute;
+color: white;
+left: 320px;
+top: 3700px;
+width: 1000px;
+font-size: 25px;
+}
+
+.text10{
+position: absolute;
+color: white;
+left: 570px;
+top: 3900px;
+width:600px;
+font-size: 50px;
+}
+
+.artist{
+   position: absolute;
+color: white;
+left:400px;
+top: 4000px;
+width: 700px;
+font-size: 25px;
+}
+
+.text11{
+position: absolute;
+color: white;
+left: 530px;
+top: 4200px;
+width:600px;
+font-size: 50px;
+}
+
+.co-artist{
+    position: absolute;
+color: white;
+left: 540px;
+top: 4300px;
+width: 400px;
+font-size: 25px;
+}
+
+.text12{
+    position: absolute;
+color: white;
+left: 470px;
+top: 4500px;
+width: 400px;
+font-size: 50px;
+}
+
+.web-developer{
+   position: absolute;
+color: white;
+left: 550px;
+top: 4600px;
+width: 400px;
+font-size: 25px; 
+}
+
+.text13{
+     position: absolute;
+color: white;
+left: 520px;
+top: 4800px;
+width: 400px;
+font-size: 50px;
+}
+
+.alicia{
+    position: absolute;
+left: 200px;
+top: 4900px;
+
+}
+
+.alicia1{
+    position: absolute;
+left: 900px;
+top: 4900px;
+width: 200px;
+}
+
+.alicia2{
+    position: absolute;
+left: 550px;
+top: 4950px;
+width: 200px;
+}
+
+.text14{
+     position: absolute;
+color: white;
+left: 475px;
+top: 5280px;
+width: 500px;
+font-size: 30px; 
+}
+
+.text15{
+    font-size: 100px;
+    position: absolute;
+    top: 5600px;
+    left: 500px;
+    height: 400px;
+    color: white;
+}
+
+
+
+
+

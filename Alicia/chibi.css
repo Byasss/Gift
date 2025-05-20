@@ -1,0 +1,175 @@
+*{
+
+    font-family: "Playwrite DK Loopet", cursive;
+}
+
+body{
+    background-color: #f8f9fa;
+}
+.lem{
+    position: absolute;
+    top: 100px;
+    right: 1050px;
+    width: 400;
+    z-index: 10;
+}
+
+.text1{
+    position: absolute;
+    top: 100px;
+    right: 673px;
+    font-size: 80px;
+   z-index: 10;
+}
+.text2{
+    position: absolute;
+    top: 250px;
+    right:90px;
+    font-size: 20px;
+    line-height: 60px;
+   z-index: 10;
+   word-spacing: 0.2px;
+}
+
+.byas{
+    position: absolute;
+    top: 500px;
+    left: 920px;
+    width: 400;
+
+    z-index: 10;
+}
+
+.text7{
+   position: absolute;
+    top: 500px;
+    left: 87px;
+    font-size: 80px;
+   z-index: 10;
+}
+.text8{
+  position: absolute;
+    top: 650px;
+    left: 87px;
+    font-size: 20px;
+    line-height: 60px;
+   z-index: 10;
+   word-spacing: 1px;  
+}
+.pablo{
+  position: absolute;
+    top: 1000px;
+     right: 1050px;
+  width:212px;
+    z-index: 10;
+}  
+.text3{
+position: absolute;
+    top: 1000px;
+   right: 623px;
+    font-size: 80px;
+   z-index: 10;    
+}
+.text4{
+    position: absolute;
+    top: 1150px;
+    right: 322px;
+    font-size: 20px;
+    line-height: 60px;
+   z-index: 10;
+   word-spacing: 1px; 
+}
+.juliet{
+     position: absolute;
+    top: 1500px;
+    left: 920px;
+    width: 212px;
+
+    z-index: 10;
+}
+.text5{
+    position: absolute;
+    top: 1525px;
+    left: 87px;
+    font-size: 80px;
+   z-index: 10;
+}
+.text6{
+     position: absolute;
+    top: 1670px;
+    left: 87px;
+    font-size: 20px;
+    line-height: 60px;
+   z-index: 10;
+   word-spacing: 1px;  
+}
+.baan{
+    position: absolute;
+    top: 2000px;
+   right: 1050px;
+    width: 400;
+    z-index: 10;
+}
+.text11{
+    position: absolute;
+    top: 2000px;
+   right: 613px;
+    font-size: 80px;
+   z-index: 10;  
+}
+.text12{
+    position: absolute;
+    top: 2150px;
+    right: 325px;
+    font-size: 20px;
+    line-height: 60px;
+   z-index: 10;
+   word-spacing: 1px; 
+}
+.alicia{
+     position: absolute;
+    top: 2500px;
+    left: 900px;
+    width: 212px;
+
+    z-index: 10;
+}
+.text9{
+     position: absolute;
+    top: 2525px;
+    left: 87px;
+    font-size: 80px;
+   z-index: 10;
+}
+.text10{
+      position: absolute;
+    top: 2670px;
+    left: 80px;
+    font-size: 20px;
+    line-height: 60px;
+   z-index: 10;
+   word-spacing: 1px;  
+}
+.pablo1{
+   position: absolute;
+    top: 3000px;
+    left: 920px;
+    width: 212px;
+
+    z-index: 10;
+}
+
+.pablo1:hover{
+    
+    transform: scale(1.2);
+}
+.text13{
+position: absolute;
+font-family: "Passions Conflict", cursive;
+    top: 3170px;
+    left: 87px;
+    font-size: 80px;
+    line-height: 60px;
+   z-index: 10;
+   word-spacing: 1px;  
+}

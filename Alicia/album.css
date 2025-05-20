@@ -1,0 +1,58 @@
+body{
+     background-repeat: no-repeat;
+     background-position: center;
+     background-attachment:fixed ;
+     background-size: cover ;
+      overflow-x: hidden;
+
+}
+
+.audio{
+    display:none;
+}
+
+.album{
+    position: absolute;
+    left:170px;
+    right: auto;
+    top: 100px;
+    margin-bottom: 50px;
+     width: 1000px;
+}
+.text{
+    position: absolute;
+    top: 150px;
+    right: 120px;
+    font-family: "Passions Conflict", cursive;
+    line-height:47px ;
+    font-size: 30px;
+    font-style: italic;
+    z-index: 10;
+    color: #250902;
+   
+}
+.paper{
+    position: absolute;
+  
+    right: 100px;
+    width: 250px;
+  
+    z-index: 2;
+}
+.byash{
+     position: absolute;
+    top: 400px;
+    left:850px;
+    width: 500px;
+    transform: rotate(20deg);
+
+    
+}
+.byash:hover{
+    transform: scale(1.2);}
+
+.misty1{
+    position: absolute;
+    top: 00px;
+    right:1100px;
+}
